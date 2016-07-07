@@ -1,11 +1,11 @@
-# gsimaps (地理院地図)
+# gsimaps (私の地理院地図)
 <a href='https://github.com/gsi-cyberjapan/gsimaps/blob/gh-pages/README.en.md'>Tentative English translation</a> for this README is also available since 2015-03-12.
 
 ## hashtag
 このレポジトリのハッシュタグは #gsimaps です。
 Twitter: https://twitter.com/hashtag/gsimaps
 
-## 地理院地図
+## 私の地理院地図
 
 - 地理院地図（国土地理院が運営しているもの）：http://maps.gsi.go.jp/
 - 地理院地図（本レポジトリを用いたデモ）：http://gsi-cyberjapan.github.io/gsimaps/
